@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#2196F3</color>
+    <color name="purple_700">#cccccc</color>
+    <color name="teal_200">#03A9F4</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#858585</color>
+    <color name="gray_light">#F0F0F0</color>
+    <color name="txt_gray">#9B9B9B</color>
+    <color name="white_light">#F9F9F9</color>
+    <color name="bg_gray">#F8F8F8</color>
+    <color name="bg_gray_s">#cccccc</color>
+    <color name="bg_gray_s1">#999999</color>
+    <color name="bg_gray_s2">#707070</color>
+    <color name="bg_gray_s3">#979797</color>
+    <color name="bg_gray_s4">#ECECEC</color>
+    <color name="bg_gray_s5">#EAEBEC</color>
+    <color name="bg_gray_s6">#E0E0E1</color>
+    <color name="bg_gray_s7">#8E8E93</color>
+    <color name="bg_gray_s8">#666766</color>
+    <color name="bg_gray_s9">#DDDDDD</color>
+    <color name="bg_gray_s10">#D9DADA</color>
+    <color name="green">#36BD66</color>
+    <color name="red">#FF0000</color>
+    <color name="three_color">#514046</color>
+    <color name="three_color_one">#333333</color>
+    <color name="three_color_thwo">#4F4045</color>
+    <color name="four_color">#CBA67E</color>
+    <color name="five_color">#D3B594</color>
+    <color name="six_color">#D7BD9F</color>
+    <color name="seven_color">#CBA680</color>
+    <color name="pin_color">#333333</color>
+    <color name="three_two_color">#666666</color>
+
+</resources>

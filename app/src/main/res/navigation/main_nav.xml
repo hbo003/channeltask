@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav.xml"
+    app:startDestination="@id/splashFragment">
+
+    <!--    <fragment-->
+    <!--        android:id="@+id/postDetailsFragment"-->
+    <!--        android:name="com.example.myapplicationtask.ui.detailspost.PostDetailsFragment"-->
+    <!--        android:label="fragment_post_details"-->
+    <!--        tools:layout="@layout/fragment_post_details">-->
+
+    <!--        <argument-->
+    <!--            android:name="postdetails"-->
+    <!--            app:argType="com.example.myapplicationtask.models.getpost.GetPostResponseItem" />-->
+    <!--    </fragment>-->
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.myapplicationtask.ui.main.SplashFragment"
+        android:label="SplashFragment" />
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.example.myapplicationtask.ui.main.RegisterFragment"
+        android:label="RegisterFragment" />
+    <activity
+        android:id="@+id/homeActivity"
+        tools:layout="@layout/activity_home"
+        android:name="com.example.myapplicationtask.ui.activity.HomeActivity"
+        android:label="HomeActivity" />
+
+
+</navigation>

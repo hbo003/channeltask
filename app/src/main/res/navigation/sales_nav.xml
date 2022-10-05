@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sales_nav"
+    app:startDestination="@id/reportSaleFragment">
+
+    <fragment
+        android:id="@+id/reportSaleFragment"
+        android:name="com.example.myapplicationtask.ui.home.ReportSaleFragment"
+        android:label="fragment_report_sale"
+        tools:layout="@layout/fragment_report_sale" />
+</navigation>

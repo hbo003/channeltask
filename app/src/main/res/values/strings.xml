@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyApplicationTask</string>
+    <string name="post_details">Post Details</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="myposts">My Post</string>
+    <string name="enter_description">"Enter Descrption "</string>
+    <string name="create_new_post">Create New Post</string>
+    <string name="create">Create</string>
+    <string name="error_no_internet">NO Internet</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_post">Edit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agree_reg">agree</string>
+    <string name="register">Register</string>
+    <string name="user_name_reg">First Name</string>
+    <string name="Email_address_reg">Email</string>
+    <string name="company">Company</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="description_register">"If your company is not registered and or you have an issue registering please send us a note. "</string>
+    <string name="text_accept_register">ffff</string>
+    <string name="next">Next</string>
+    <string name="personal_info">Personnal Info</string>
+    <string name="brand">Brands</string>
+    <string name="hello_news_fragment">News Fragment</string>
+    <string name="hello_notification_fragment">Notification Fragment</string>
+    <string name="hello_report_sale_fragment">Report Sale Fragment</string>
+    <string name="hello_feedback_fragment">Feedback Fragment</string>
+    <string name="home">Home</string>
+    <string name="feedback">Feedback</string>
+    <string name="reportsales">Report Sale</string>
+    <string name="inbox">Inbox</string>
+    <string name="news">News</string>
+    <string name="searchproduct">"Search Product "</string>
+    <string name="balancetotal">Total Balance</string>
+    <string name="training">Training</string>
+    <string name="performence">Performence</string>
+    <string name="promotion">Promotions</string>
+    <string name="rewards">Rewards</string>
+</resources>

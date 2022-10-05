@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="1dp"
+    android:layout_margin="10dp">
+
+    <ImageView
+        android:id="@+id/image_product_logo"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/title_product_logo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/lorin_regular"
+        android:text="title"
+        android:textColor="@color/bg_gray_s2"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@id/image_product_logo"
+        app:layout_constraintStart_toEndOf="@id/image_product_logo"
+        app:layout_constraintTop_toTopOf="@id/image_product_logo"
+        tools:text="Covid-19. A Pandemic" />
+
+    <View
+        android:id="@+id/view_logo"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/gray"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image_product_logo"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
