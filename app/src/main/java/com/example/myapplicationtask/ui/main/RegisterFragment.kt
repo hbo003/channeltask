@@ -104,7 +104,6 @@ class RegisterFragment : Fragment(R.layout.fragment_register) {
 
         }
 
-
     }
 
     private fun textAgree() {
